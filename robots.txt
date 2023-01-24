@@ -1,1 +1,2 @@
-/home/hugo-project/znnblog/public/robots.txt
+User-agent: *
+Sitemap: http://localhost:1313/sitemap.xml
