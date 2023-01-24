@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Even - A super concise theme for Hugo</title>
-    <link>/</link>
+    <link>https://mrznn.github.io/myrepo/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mrznn.github.io/myrepo/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

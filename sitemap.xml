@@ -1,20 +1,20 @@
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://mrznn.github.io/myrepo/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://mrznn.github.io/myrepo/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://mrznn.github.io/myrepo/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://mrznn.github.io/myrepo/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
