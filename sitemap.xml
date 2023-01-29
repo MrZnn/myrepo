@@ -1,49 +1,49 @@
-<?xml-stylesheet type="text/xsl" href="https://mrznn.github.io/myrepo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/</loc>
+    <loc>/</loc>
     <lastmod>2023-01-28T15:37:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-01-28T15:37:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/post/second/</loc>
+    <loc>/post/second/</loc>
     <lastmod>2023-01-28T15:37:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/post/first/</loc>
+    <loc>/post/first/</loc>
     <lastmod>2023-01-28T15:19:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/post/test/</loc>
+    <loc>/post/test/</loc>
     <lastmod>2023-01-28T15:14:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mrznn.github.io/myrepo/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
