@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>https://mrznn.github.io/myrepo/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 28 Jan 2023 15:37:28 +0800</lastBuildDate>
     
-	<atom:link href="https://mrznn.github.io/myrepo/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>https://mrznn.github.io/myrepo/post/second/</link>
+      <link>/post/second/</link>
       <pubDate>Sat, 28 Jan 2023 15:37:28 +0800</pubDate>
       
-      <guid>https://mrznn.github.io/myrepo/post/second/</guid>
+      <guid>/post/second/</guid>
       <description>xxxx xxxx</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://mrznn.github.io/myrepo/post/first/</link>
+      <link>/post/first/</link>
       <pubDate>Sat, 28 Jan 2023 15:19:42 +0800</pubDate>
       
-      <guid>https://mrznn.github.io/myrepo/post/first/</guid>
+      <guid>/post/first/</guid>
       <description>&amp;hellip;..</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://mrznn.github.io/myrepo/post/test/</link>
+      <link>/post/test/</link>
       <pubDate>Sat, 28 Jan 2023 15:14:03 +0800</pubDate>
       
-      <guid>https://mrznn.github.io/myrepo/post/test/</guid>
+      <guid>/post/test/</guid>
       <description></description>
     </item>
     
