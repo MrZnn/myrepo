@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: sitemap.xml
+Sitemap: https://mrznn.github.io/myrepo/sitemap.xml
